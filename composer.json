@@ -1,5 +1,5 @@
 {
-    "name": "fmp/mokuho-api",
+    "name": "fmp-dev/mokuho-api",
     "description": "PHP API SDK Client for Mokuho Mail",
     "type": "library",
     "license": "MIT",
