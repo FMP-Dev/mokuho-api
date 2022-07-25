@@ -11,18 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc2c3a57-25a0-4e64-8c7f-1a85584b8caa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Client.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/Base.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/Campaign.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/Campaign.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/Customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/Customer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/File.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/File.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/MailList.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/MailList.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/Notification.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/Notification.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/Plan.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/Plan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/SendingServer.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/SendingServer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/Subscriber.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/Subscriber.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resource/Subscription.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resource/Subscription.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +107,7 @@
       <workItem from="1658762439796" duration="590000" />
       <workItem from="1658764520097" duration="192000" />
       <workItem from="1658764794249" duration="153000" />
-      <workItem from="1658777956800" duration="927000" />
+      <workItem from="1658777956800" duration="1545000" />
     </task>
     <servers />
   </component>
