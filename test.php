@@ -5,6 +5,6 @@ require __DIR__ . '/vendor/autoload.php';
 // $log->pushHandler(new Monolog\Handler\StreamHandler('app.log', Monolog\Logger::WARNING));
 // $log->addWarning('Foo sdfs asd asd asda s');
 
-$client = new Fmp\Client('http://fmp.local/api/v1', 'aIpfXqiFMnsvO0e9nlpACZ4x0euvngGTKADSnjKy1760uY5vZ9strUX0f9RW');
+$client = new Mokuho\Client('http://fmp.local/api/v1', 'aIpfXqiFMnsvO0e9nlpACZ4x0euvngGTKADSnjKy1760uY5vZ9strUX0f9RW');
 
 var_dump($client->subscriber()->update('5fa8a9429f72d', ['ddd' => 'fff']));
