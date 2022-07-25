@@ -1,17 +1,17 @@
 <?php
 
-namespace Fmp;
+namespace Mokuho;
 
-use Fmp\Resource\Base;
-use Fmp\Resource\Campaign;
-use Fmp\Resource\MailList;
-use Fmp\Resource\Subscriber;
-use Fmp\Resource\Plan;
-use Fmp\Resource\SendingServer;
-use Fmp\Resource\Customer;
-use Fmp\Resource\Subscription;
-use Fmp\Resource\Notification;
-use Fmp\Resource\File;
+use Mokuho\Resource\Base;
+use Mokuho\Resource\Campaign;
+use Mokuho\Resource\MailList;
+use Mokuho\Resource\Subscriber;
+use Mokuho\Resource\Plan;
+use Mokuho\Resource\SendingServer;
+use Mokuho\Resource\Customer;
+use Mokuho\Resource\Subscription;
+use Mokuho\Resource\Notification;
+use Mokuho\Resource\File;
 
 class Client {
     private $token;

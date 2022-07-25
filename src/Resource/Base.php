@@ -1,6 +1,6 @@
 <?php
 
-namespace Fmp\Resource;
+namespace Mokuho\Resource;
 
 class Base {
     private $client;

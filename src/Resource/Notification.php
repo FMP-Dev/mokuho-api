@@ -1,8 +1,8 @@
 <?php
 
-namespace Fmp\Resource;
+namespace Mokuho\Resource;
 
-use Fmp\Resource\Base;
+use Mokuho\Resource\Base;
 
 class Notification extends Base {
     public function getSubject()
